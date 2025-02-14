@@ -133,13 +133,13 @@ input#open {
 }
 
 .text-one:before {
-  content:"Valentine's";
+  content:"Sevgililer Günü";
   top:30px;
   color: #d04e4e;
 }
 
 .text-one:after {
-  content:"day!";
+  content:"Dilerim!";
   top:60px;
 }
 
